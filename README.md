@@ -1,1 +1,1 @@
-# AnyNetworks
+AnyNetworks library for Topological data analysis
